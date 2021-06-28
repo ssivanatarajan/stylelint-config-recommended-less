@@ -1,2 +1,2 @@
 # stylelint-config-recommended-less
-The recommended shareable SCSS config for stylelint.
+The recommended shareable Less config for stylelint.
