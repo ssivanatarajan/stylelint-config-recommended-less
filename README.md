@@ -50,8 +50,5 @@ You can add `rules` key to your config there you can override and add new rules
 }
 
 ```
-## Note
-
-Due to the limitations in postcss-less parser, we have mandate `declaration-colon-space-after` and `declaration-colon-space-before` rules in this config. So don't override these two rules in your config. 
 
 
