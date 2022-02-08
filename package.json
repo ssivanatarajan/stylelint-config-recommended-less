@@ -1,13 +1,12 @@
 {
     "name": "stylelint-config-recommended-less",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A sharable stylelint config for less",
     "main": "index.js",
     "dependencies": {
         "stylelint": "^13.8.0",
         "stylelint-less": "^1.0.2"
     },
-
     "author": {
         "name": "Sivantarajan",
         "url": "https://github.com/ssivanatarajan/"
