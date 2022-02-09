@@ -4,8 +4,8 @@
     "description": "A sharable stylelint config for less",
     "main": "index.js",
     "dependencies": {
-        "stylelint": "^13.8.0",
-        "stylelint-less": "^1.0.2",
+        "stylelint": "^14.0",
+        "stylelint-less": "^1.0.3",
         "stylelint-config-recommended": "6.0.0"
     },
     "author": {
