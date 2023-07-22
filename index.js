@@ -9,6 +9,7 @@ module.exports = {
 	rules: {
 		'at-rule-no-unknown': null,
 		'function-no-unknown': null,
+		'no-invalid-position-at-import-rule': null,
 		'less/color-no-invalid-hex': true,
 		'less/no-duplicate-variables': true,
 	},
